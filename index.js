@@ -3,7 +3,7 @@ const perguntas = [
     pergunta: "Qual é o ano de fundação do Sport Club Corinthians Paulista?",
     respostas: [
       "1910",
-      "1908",
+      "1908", 
       "1912"
     ],
     correta: 0
