@@ -4,7 +4,7 @@ const perguntas = [
     respostas: [
       "1910",
       "1908", 
-      "1912"
+      "1912" 
     ],
     correta: 0
   },
